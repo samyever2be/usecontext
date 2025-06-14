@@ -1,0 +1,11 @@
+.border{
+  border: 2px solid;
+  width: 70%;
+  padding:10px;
+}
+
+.box{
+  border: 2px solid teal;
+  width: 70%;
+  padding: 10px;
+}
